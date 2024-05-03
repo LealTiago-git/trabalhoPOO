@@ -5,5 +5,4 @@ public class Bilhete {
     private int numero;
     private int notaFiscalId;
     private int usuarioId;
-
 }

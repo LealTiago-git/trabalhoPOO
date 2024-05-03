@@ -17,5 +17,4 @@ public class Usuario {
     private String logradouro;
     private String numeroEndereco;
     private String complemento;
-
 }

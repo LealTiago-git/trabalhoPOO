@@ -6,6 +6,4 @@ public class NotaFiscal {
     private String sequencial;
     private Date dataProcessamento;
     private Date data;
-
-    // Getters e Setters
 }
